@@ -6,6 +6,7 @@ public class test11 {
 		System.out.println("fuck");
 		System.out.println("Hello");
 		System.out.println("Achini");
+		System.out.println("Achini");
 
 	}
 
